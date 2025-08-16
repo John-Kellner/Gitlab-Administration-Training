@@ -1,5 +1,115 @@
 ---
 
+# GitLab Administration und Security in 2 Tagen
+
+### Theorie, Livecoding sowie praktische Übungen
+
+---
+
+Dieser zweitägige Kurs bietet eine umfassende Schulung, die **Theorie, Live-Coding und praktische Übungen** kombiniert, um Ihre Fähigkeiten in der GitLab-Administration zu stärken.
+
+* **Eine GitLab Instanz für jeden Teilnehmer:** Sie erhalten Ihre eigene Instanz, um die Kursinhalte direkt anzuwenden.
+* **Kleine Gruppen mit max. 7 Teilnehmern:** Die Gruppengröße ermöglicht eine intensive und persönliche Betreuung.
+* **Erfahrener GitLab Administrator als Trainer:** Profitieren Sie von der Praxiserfahrung unseres Trainers.
+* **Unterlagen und Teilnahmezertifikat:** Nach erfolgreichem Abschluss erhalten Sie umfassende Unterlagen und ein offizielles Teilnahmezertifikat.
+
+
+---
+
+---
+
+### Was sind die Schwerpunkte?
+
+* **Grundlagen der GitLab-Architektur und -Konfiguration:** Verstehen Sie den Aufbau und die richtige Einrichtung von GitLab.
+* **Sicherheitsaspekte und Best Practices:** Erfahren Sie, wie Sie Ihre GitLab-Instanz sicher betreiben und Risiken minimieren.
+* **Implementierung von CI/CD-Pipelines:** Lernen Sie, wie Sie automatisierte Workflows für Continuous Integration und Continuous Deployment erstellen.
+* **Überwachung und Performance-Optimierung:** Gewinnen Sie Einblicke in das Monitoring und die Optimierung der Systemleistung.
+* **Notfallwiederherstellung und Backup-Strategien:** Entwickeln Sie robuste Strategien für Sicherung und Wiederherstellung.
+
+---
+
+### Für wen ist der Kurs geeignet?
+
+* Systemadministratoren
+* DevOps-Ingenieure
+* IT-Sicherheitsexperten
+* Projektmanager
+* Entwickler
+
+---
+
+### Was sollten Sie mitbringen?
+
+* Grundkenntnisse in der Linux-Systemadministration
+* Vertrautheit mit grundlegenden CI/CD-Konzepten
+* Basiswissen in Netzwerk- und IT-Sicherheit
+* Grundlegendes Verständnis von Versionskontrolle und Git
+* Einen eigenen Laptop und Internetzugang
+
+---
+
+### Was sind die Vorteile?
+
+* **Umfassendes GitLab-Verständnis:** Sie lernen, GitLab von Grund auf zu verstehen und zu verwalten.
+* **Sicherheitskompetenz und Risikominimierung:** Sie erwerben Fähigkeiten, um Ihre Umgebung abzusichern und Bedrohungen zu erkennen.
+* **Zusammenarbeit und Kommunikation verbessern:** Effiziente Nutzung von GitLab-Funktionen zur Steigerung der Teamproduktivität.
+* **Aktuelles Wissen über Technologie und Best Practices:** Bleiben Sie auf dem neuesten Stand der Technik.
+* **Steigerung der beruflichen Qualifikation:** Erweitern Sie Ihre Fähigkeiten und machen Sie sich für Arbeitgeber attraktiver.
+
+
+---
+
+---
+
+### Die Agenda zum Kurs
+
+#### **Einführung in GitLab und Versionskontrolle**
+* Was ist GitLab? Überblick über Funktionen und Einsatzmöglichkeiten
+* Bedeutung von **Versionskontrolle** für die Softwareentwicklung
+* Unterschiede zwischen GitLab und anderen Versionierungstools
+
+#### **Installation und Konfiguration von GitLab**
+* Einrichtung auf eigenen Servern vs. GitLab Cloud-Dienst
+* Konfiguration von Systemanforderungen und Abhängigkeiten
+* **Sicherheitsüberlegungen** und Best Practices bei der Installation
+
+#### **Benutzer- und Zugriffsverwaltung**
+* Erstellen und Verwalten von Benutzerkonten und Gruppen
+* Rollen und Berechtigungen in GitLab: Eigentümer, Entwickler, Gast usw.
+* **Authentifizierungsoptionen**: LDAP, OAuth, Two-Factor-Authentication (2FA)
+
+#### **GitLab-Projekte und Repositories**
+* Erstellung und Strukturierung von Projekten
+* Verwaltung von Repositories: Klonen, Forken, Branches und Tags
+* Einblick in die Versionshistorie und Commits
+
+#### **CI/CD-Pipelines und Automatisierung**
+* Einführung in **Continuous Integration (CI)** und **Continuous Deployment (CD)**
+* Erstellung von Pipelines für automatisierte Builds und Tests
+* Integration von externen Tools und Services in Pipelines
+
+#### **Monitoring und Fehlerverfolgung**
+* Überwachung von GitLab-Projekten mit integrierten Tools
+* Verfolgung von Fehlern, Aufgaben und Verbesserungen mit **Issue Boards**
+* Verknüpfung von Commits, Merge Requests und Issues
+
+#### **GitLab-Extensions und Erweiterungen**
+* Überblick über Erweiterungen: GitLab Pages, Wiki, Snippets
+* Integration von Drittanbieter-Tools über **Webhooks**
+* Nutzung von GitLab-Integrationen mit Slack, JIRA usw.
+
+#### **Sicherung und Wiederherstellung**
+* **Sicherungsstrategien** für GitLab-Datenbanken und Repositories
+* Automatisierte Sicherungsläufe und Sicherungsfrequenz
+* Wiederherstellung von Projekten und Daten nach einem Ausfall
+
+#### **Best Practices für GitLab-Administration**
+* **Performance-Optimierung** und Ressourcenmanagement
+* Sicherheitsmaßnahmen und Schutz vor Bedrohungen
+* Aktualisierungen, Upgrades und Patch-Management
+
+---
+
 ## GitLab Administration und Security Kurs
 
 ---
